@@ -1,0 +1,1 @@
+# vichinzn-launcher-info
