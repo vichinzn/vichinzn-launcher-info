@@ -1,6 +1,6 @@
-# 🚀 Vichinzn Launcher
+# 🚀 EN Vichinzn Launcher
 
-Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed to centralize, test, and enjoy custom experiences. This space serves as an official information hub and delivery platform for beta testers and community members to access exclusive instances safely.
+Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed to centralize, test, and enjoy custom experiences. This space serves as an official information hub.
 
 ---
 
@@ -12,21 +12,31 @@ Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed t
 
 ---
 
-## 📦 How to Download and Play
-
-To ensure you are downloading the official, untouched version of the launcher, follow these steps:
-
-1. Look at the **Releases** section on the right side of this page.
-2. Download the latest compiled executable (`VichinznLauncher.exe`).
-3. Run the file. No complex installation or source code management required!
-
----
-
 ## 🛡️ Closed-Source & Security Notice
 
 * **Intellectual Property:** To protect the unique features, custom UI design, and prevent malicious distribution or modified clones, the source code of Vichinzn Launcher is strictly **Closed-Source**. 
-* **Safe Environment:** This repository does not host raw source code. It only hosts official documentation, release changelogs, and compiled secure binaries. 
 * **Data Privacy:** Your login credentials are encrypted and processed through official authentication endpoints. We never store or track your personal account data.
 
 ---
 © 2026 Vichinzn Launcher. All rights reserved.
+
+# 🚀 ES Vichinzn Launcher
+
+Vichinzn Launcher es un lanzador de Minecraft premium, seguro y personalizado, diseñado para centralizar, probar y disfrutar de experiencias personalizadas. Este espacio funciona como un centro de información oficial.
+---
+
+## 🛠️ ¿Qué ofrece este lanzador?
+
+* **Instancias personalizadas:** Acceso directo a paquetes de mods y configuraciones optimizadas para sesiones de juego de alto rendimiento.
+* **Seguridad premium:** Desarrollado con protocolos de autenticación seguros vinculados directamente a plataformas oficiales, lo que mantiene tus credenciales a salvo.
+
+---
+
+## 🛡️ Aviso sobre código cerrado y seguridad
+
+* **Propiedad intelectual:** Para proteger las características únicas y el diseño personalizado de la interfaz de usuario, así como para evitar la distribución maliciosa o clones modificados, el código fuente de Vichinzn Launcher es estrictamente **de código cerrado**.
+* **Entorno seguro:** Este repositorio no aloja el código fuente sin procesar. Solo aloja documentación oficial, registros de cambios de las versiones y binarios compilados y seguros.
+* **Privacidad de los datos:** Tus credenciales de inicio de sesión se cifran y se procesan a través de puntos finales de autenticación oficiales. Nunca almacenamos ni rastreamos los datos personales de tu cuenta.
+
+---
+© 2026 Vichinzn Launcher. Todos los derechos reservados.
