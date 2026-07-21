@@ -23,6 +23,7 @@ Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed t
 # 🚀 ES Vichinzn Launcher
 
 Vichinzn Launcher es un lanzador de Minecraft premium, seguro y personalizado, diseñado para centralizar, probar y disfrutar de experiencias personalizadas. Este espacio funciona como un centro oficial de información.
+
 ---
 
 ## 🛠️ ¿Qué ofrece este lanzador?
