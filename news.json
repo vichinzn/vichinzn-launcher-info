@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "date": "2026-07-21",
+    "author": "Staff",
+    "image_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/news1.jpg",
+    "title": {
+      "en": "PATCH 1.0.4: SERVER UPDATES",
+      "es": "PARCHE 1.0.4: ACTUALIZACIONES DEL SERVIDOR",
+      "pt": "ATUALIZAÇÃO 1.0.4: NOVIDADES DO SERVIDOR"
+    },
+    "content": {
+      "en": "New server updates applied. Minor launcher instance bugs fixed and data pipeline optimized.",
+      "es": "Nuevas actualizaciones del servidor aplicadas. Se corrigieron pequeños errores en la instancia y se optimizó la transferencia de datos.",
+      "pt": "Novas atualizações do servidor aplicadas. Pequenos erros corrigidos e transferência de dados otimizada."
+    }
+  },
+  {
+    "id": 2,
+    "date": "2026-07-15",
+    "author": "Vichinzn",
+    "image_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/news2.jpg",
+    "title": {
+      "en": "NEW SEASON ANNOUNCEMENT",
+      "es": "ANUNCIO DE NUEVA TEMPORADA",
+      "pt": "ANÚNCIO DA NOVA TEMPORADA"
+    },
+    "content": {
+      "en": "Get ready for upcoming events, new rewards, and custom skin integrations across all instances.",
+      "es": "Prepárate para los próximos eventos, nuevas recompensas e integración de skins personalizadas en todas las instancias.",
+      "pt": "Prepare-se para os próximos eventos, novas recompensas e integração de skins personalizadas em todas as instâncias."
+    }
+  }
+]
