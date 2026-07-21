@@ -18,8 +18,8 @@ Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed t
 * **Data Privacy:** Your login credentials are encrypted and processed through official authentication endpoints. We never store or track your personal account data.
 
 ---
-© 2026 Vichinzn Launcher. All rights reserved.
----
+© 2026 Vichinzn Launcher. All right reserved.
+
 
 # 🚀 ES Vichinzn Launcher
 
