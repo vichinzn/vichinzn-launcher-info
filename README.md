@@ -19,6 +19,7 @@ Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed t
 
 ---
 © 2026 Vichinzn Launcher. All rights reserved.
+---
 
 # 🚀 ES Vichinzn Launcher
 
