@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "author": "Vichinzn",
-    "image_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/news1.jpg",
+    "image_url": "https://cdn.discordapp.com/attachments/1470996241964859405/1529374042308477018/new_1_photo_22-07.png?ex=6a61b412&is=6a606292&hm=d8d7b013c411d057ac9972b0cb96a8d1d48e8cd7f7af3bae29400ff8e8fd0b4a&",
     "title": {
-      "en": "PATCH 1.0.4: SERVER UPDATES",
-      "es": "Parche v1.0.0 | Lanzamiento de la Beta 1.0",
-      "pt": "ATUALIZAÇÃO 1.0.4: NOVIDADES DO SERVIDOR"
+      "en": "Patch v1.0.0 | BETA Release 1.0",
+      "es": "Parche v1.0.0 | Lanzamiento BETA 1.0",
+      "pt": "Atualização v1.0.0 | Lançamento da versão BETA 1.0"
     },
     "content": {
-      "en": "New server updates applied. Minor launcher instance bugs fixed and data pipeline optimized.",
-      "es": "Nos complace anunciar el lanzamiento oficial de la primera versión Beta de Vichinzn Launcher. Esta etapa inicial tiene como objetivo principal evaluar el rendimiento del sistema, la estabilidad general y la funcionalidad de sus características clave en diversos entornos. Al tratarse de una versión de prueba técnica, el lanzador no está disponible actualmente para el público general y se encuentra sujeto a constantes ajustes e implementaciones. Agradecemos a nuestro equipo de testers por formar parte de este proceso para construir una experiencia óptima y confiable.",
-      "pt": "Novas atualizações do servidor aplicadas. Pequenos erros corrigidos e transferência de dados otimizada."
+      "en": "Official release of the first beta version of Vichinzn Launcher. The goal of this initial phase is to evaluate the system's performance and overall stability. Since this is a beta version, the launcher is not currently available to the public and is subject to ongoing adjustments and updates.",
+      "es": "Lanzamiento oficial de la primera versión Beta de Vichinzn Launcher. Esta etapa inicial tiene como objetivo evaluar el rendimiento del sistema y la estabilidad general. Al tratarse de una versión en fase beta, el lanzador no está disponible actualmente para el público y se encuentra sujeto a constantes ajustes e implementaciones.",
+      "pt": "Lançamento oficial da primeira versão beta do Vichinzn Launcher. Esta fase inicial tem como objetivo avaliar o desempenho do sistema e a estabilidade geral. Por se tratar de uma versão em fase beta, o launcher não está disponível ao público no momento e está sujeito a ajustes e implementações constantes."
     }
   },
   {
