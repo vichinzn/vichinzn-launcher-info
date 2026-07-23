@@ -22,7 +22,7 @@
     "logo": "assets/hzombies_logo.png",
     "icon": "assets/hzombies_icon.png",
     "accentColor": "#c23616",
-    "status": "maintenance",
+    "status": "active",
     "enabled": true,
     "musicTrack": "assets/zombies_ambient.mp3",
     "downloadUrl": ""
