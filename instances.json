@@ -24,7 +24,7 @@
     "accentColor": "#c23616",
     "status": "active",
     "enabled": true,
-    "musicTrack": "assets/hzombies_music.mp3",
+    "musicTrack": "assets/sounds/hzombies_music.mp3",
     "downloadUrl": ""
   }
 ]
