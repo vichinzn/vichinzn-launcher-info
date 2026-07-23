@@ -1,0 +1,30 @@
+[
+  {
+    "id": "viosland3",
+    "name": "Viosland 3 #SoloQ",
+    "version": "1.20.1",
+    "bgType": "image",
+    "background": "assets/soloq_bg.jpg",
+    "logo": "assets/soloq_logo.png",
+    "icon": "assets/soloq_icon.png",
+    "accentColor": "#e1b12c",
+    "status": "active",
+    "enabled": true,
+    "musicTrack": "assets/sounds/viosland3_music.mp3",
+    "downloadUrl": "https://download1323.mediafire.com/9rpjiprro7kgDueuQZ8XlIrYkf93ekI2Et2DEZ7td6IDTBICDgX-rrxJhBWn3jpz6GmDEL7Qn6R5qtKOxjcw79bbdgXVzW1JSyBzZC0G_DsnsGZbdwEP_aE9TJDnJoQ-ZW9q7jLJiEydKmGa_ePH81KJxbWyc4CYJwu6gzJCvS5DxA/spefguvypxskcwj/.viosland3.zip"
+  },
+  {
+    "id": "hardcore-zombies",
+    "name": "Hardcore Zombies",
+    "version": "1.20.1",
+    "bgType": "gif",
+    "background": "assets/hzombies_bg.jpg",
+    "logo": "assets/hzombies_logo.png",
+    "icon": "assets/hzombies_icon.png",
+    "accentColor": "#c23616",
+    "status": "maintenance",
+    "enabled": true,
+    "musicTrack": "assets/zombies_ambient.mp3",
+    "downloadUrl": ""
+  }
+]
