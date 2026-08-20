@@ -1,7 +1,9 @@
 {
   "enabled": true,
-  "allowedUsernames": [
-    "vichinzn",
-    ""
+  "allowedPlayers": [
+    {
+      "username": "vichinzn",
+      "uuid": "71fedfbbb3a94b0ba35a3f9a184c4790"
+    }
   ]
 }
