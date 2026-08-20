@@ -1,8 +1,6 @@
 {
   "enabled": true,
-  "allowedPlayers": [
-    {
-      "username": "vichinzn"
-    }
+  "allowedUsernames": [
+    "vichinzn"
   ]
 }
