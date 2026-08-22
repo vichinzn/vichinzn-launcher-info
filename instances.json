@@ -27,8 +27,8 @@
   "logo": "assets/hzombies_logo.png",
   "icon": "assets/hzombies_icon.png",
   "accentColor": "#c23616",
-  "status": "active",
-  "enabled": maintenance,
+  "status": "disable",
+  "enabled": true,
   "musicTrack": "assets/sounds/hzombies_music.mp3",
   "downloadUrl": "",
   "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
