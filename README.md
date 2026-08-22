@@ -1,3 +1,7 @@
+# 🚀 Vichinzn Launcher
+
+![Banner Placeholder](link-a-tu-banner-futuro.png) <!-- [Insertar imagen del Banner aquí] -->
+
 **Vichinzn Launcher** es un cliente de Minecraft premium, seguro y completamente personalizado. Está diseñado para centralizar, gestionar y optimizar experiencias de juego a medida, ofreciendo un entorno estable y de alto rendimiento.
 
 Este repositorio funciona como el **centro oficial de información y distribución** del software.
