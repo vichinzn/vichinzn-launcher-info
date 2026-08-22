@@ -1,44 +1,51 @@
-# 🚀 EN Vichinzn Launcher
+**Vichinzn Launcher** es un cliente de Minecraft premium, seguro y completamente personalizado. Está diseñado para centralizar, gestionar y optimizar experiencias de juego a medida, ofreciendo un entorno estable y de alto rendimiento.
 
-Vichinzn Launcher is a premium, secure, and custom Minecraft launcher designed to centralize, test, and enjoy custom experiences. This space serves as an official information hub.
-
----
-
-## 🛠️ What Does This Launcher Offer?
-
-* **Custom Instances:** Direct access to modpacks and configurations optimized for high-performance gaming sessions.
-* **Beta Testing Program:** A streamlined channel to test new launcher features, report bugs, and collaborate on stability.
-* **Premium Security:** Built with secure authentication protocols directly linked to official platforms, keeping your credentials safe.
+Este repositorio funciona como el **centro oficial de información y distribución** del software.
 
 ---
 
-## 🛡️ Closed-Source & Security Notice
+## 📖 ¿Qué es y para qué fue creado?
 
-* **Intellectual Property:** To protect the unique features, custom UI design, and prevent malicious distribution or modified clones, the source code of Vichinzn Launcher is strictly **Closed-Source**. 
-* **Data Privacy:** Your login credentials are encrypted and processed through official authentication endpoints. We never store or track your personal account data.
+Vichinzn Launcher nació de la necesidad de ofrecer un entorno de juego optimizado y sin complicaciones. Su propósito principal es eliminar la fricción al instalar paquetes de mods pesados y configuraciones complejas, permitiendo a los jugadores entrar directamente a la acción. 
+
+Fue creado para **comunidades privadas, testeadores beta y jugadores exigentes** que buscan una experiencia de Minecraft superior, donde el rendimiento y la seguridad no son negociables.
+
+## ✨ Funciones Principales
+
+*   **⚡ Instancias Personalizadas y Optimizadas:** Acceso directo e inmediato a modpacks pre-configurados. El launcher se encarga de gestionar los archivos necesarios para garantizar sesiones de juego de alto rendimiento.
+*   **🧪 Programa de Beta Testing:** Un canal integrado para que los usuarios prueben nuevas características del launcher, reporten errores y colaboren en la estabilidad del sistema antes de los lanzamientos oficiales.
+*   **🔒 Seguridad Premium Integrada:** Desarrollado con protocolos de autenticación que se comunican directamente con las plataformas oficiales (Microsoft/Mojang), manteniendo tus credenciales 100% a salvo.
+*   **🎨 Interfaz de Usuario Exclusiva:** Un diseño limpio, intuitivo y enfocado en la experiencia del usuario, libre de la saturación visual de otros clientes públicos.
+
+## ⚙️ ¿Cómo funciona y qué hace exactamente?
+
+El sistema actúa como un puente directo entre tu cuenta oficial y el entorno de juego personalizado. Al iniciar sesión, el launcher valida tus credenciales de forma cifrada mediante los *endpoints* oficiales. Una vez autenticado, sincroniza y descarga únicamente los archivos necesarios para tu instancia de juego.
+
+A nivel técnico, la arquitectura de la interfaz está construida sobre **Electron, JavaScript y CSS**, lo que garantiza una navegación extremadamente fluida, un diseño moderno y un consumo inteligente de recursos en tu PC antes de lanzar el juego.
+
+![Screenshot Placeholder](link-a-tu-captura-futura.png) <!-- [Insertar Captura de la Interfaz aquí] -->
+
+## 📥 ¿Cómo descargarlo e instalarlo?
+
+Para instalar la última versión estable de Vichinzn Launcher, sigue estos pasos:
+
+1. Dirígete a la pestaña de **[Releases](../../releases)** (Lanzamientos) en el menú lateral derecho de este repositorio.
+2. Busca la versión más reciente (ej. `v1.0.0`).
+3. En la sección *Assets*, descarga el archivo ejecutable (`.exe`).
+4. Ejecuta el instalador en tu equipo y sigue las instrucciones en pantalla.
+
+*Nota: Es posible que Windows SmartScreen muestre una advertencia al ser un software de desarrollador independiente. Puedes hacer clic en "Más información" y "Ejecutar de todas formas" de manera segura.*
+
+## 🛡️ Aviso de Código Cerrado y Privacidad
+
+Para proteger las características exclusivas del sistema, nuestro diseño UI personalizado y para prevenir la distribución maliciosa de clones modificados, **el código fuente de Vichinzn Launcher es estrictamente Closed-Source**.
+
+**Privacidad de Datos:** Este repositorio aloja únicamente la documentación oficial y los binarios compilados de forma segura. Tus credenciales de inicio de sesión se cifran en tu propio equipo y se procesan a través de los servidores oficiales de autenticación. **Vichinzn Launcher nunca almacena, intercepta ni rastrea los datos personales de tu cuenta.**
 
 ---
-© 2026 Vichinzn Launcher. All right reserved.
 
+### 📝 Soporte y Derechos
 
-# 🚀 ES Vichinzn Launcher
+Si encuentras algún problema o deseas participar en el programa de *Beta Testing*, por favor abre un hilo en la sección de **Issues** de este repositorio.
 
-Vichinzn Launcher es un lanzador de Minecraft premium, seguro y personalizado, diseñado para centralizar, probar y disfrutar de experiencias personalizadas. Este espacio funciona como un centro oficial de información.
-
----
-
-## 🛠️ ¿Qué ofrece este lanzador?
-
-* **Instancias personalizadas:** Acceso directo a paquetes de mods y configuraciones optimizadas para sesiones de juego de alto rendimiento.
-* **Seguridad premium:** Desarrollado con protocolos de autenticación seguros vinculados directamente a plataformas oficiales, lo que mantiene tus credenciales a salvo.
-
----
-
-## 🛡️ Aviso sobre código cerrado y seguridad
-
-* **Propiedad intelectual:** Para proteger las características únicas y el diseño personalizado de la interfaz de usuario, así como para evitar la distribución maliciosa o clones modificados, el código fuente de Vichinzn Launcher es estrictamente **de código cerrado**.
-* **Entorno seguro:** Este repositorio no aloja el código fuente sin procesar. Solo aloja documentación oficial, registros de cambios de las versiones y binarios compilados y seguros.
-* **Privacidad de los datos:** Tus credenciales de inicio de sesión se cifran y se procesan a través de puntos finales de autenticación oficiales. Nunca almacenamos ni rastreamos los datos personales de tu cuenta.
-
----
 © 2026 Vichinzn Launcher. Todos los derechos reservados.
