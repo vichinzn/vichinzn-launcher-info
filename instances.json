@@ -2,7 +2,7 @@
   {
   "id": "viosland3",
   "name": "Viosland 3 Last Game",
-  "version": "1.20.1",
+  "version": "1.20.1-v2",
   "loader": "fabric-0.14.22", 
   "minRam": 8,
   "bgType": "image",
@@ -13,7 +13,7 @@
   "status": "active",
   "enabled": true,
   "musicTrack": "assets/sounds/viosland3_music.mp3",
-  "downloadUrl": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/instances/default.viosland3.zip",
+  "downloadUrl": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/instances/v1.0.0-alpha1",
   "hash": ""
 },
   {
