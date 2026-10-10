@@ -13,8 +13,8 @@
   "status": "active",
   "enabled": true,
   "musicTrack": "assets/sounds/viosland3_music.mp3",
-  "downloadUrl": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/instances/viosland3-complete.zip",
-  "hash": "4145b39493ba44817780d3da24f1d94f8707495b7806eb9565d39acaaebce4cd"
+  "downloadUrl": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/viosland3-2026.10.10-r1/viosland3-complete.zip",
+  "hash": "1fc013d947597113d4f2550f672d9f8c3bc312881d7a1340567573803b40871d"
 },
   {
   "id": "hardcore-zombies",
