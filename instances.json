@@ -14,7 +14,7 @@
   "enabled": true,
   "musicTrack": "assets/sounds/viosland3_music.mp3",
   "downloadUrl": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/instances/viosland3-complete.zip",
-  "hash": ""
+  "hash": "4145b39493ba44817780d3da24f1d94f8707495b7806eb9565d39acaaebce4cd"
 },
   {
   "id": "hardcore-zombies",
@@ -28,7 +28,7 @@
   "icon": "assets/hzombies_icon.png",
   "accentColor": "#c23616",
   "status": "disable",
-  "enabled": true,
+  "enabled": false,
   "musicTrack": "assets/sounds/hzombies_music.mp3",
   "downloadUrl": "",
   "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
