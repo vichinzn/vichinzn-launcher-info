@@ -1,5 +1,21 @@
 [
   {
+    "id": "26d0142d-08a9-469f-96bf-77e6eea26ebb",
+    "title": {
+      "es": "ADADADADA",
+      "en": "ADADADADA",
+      "pt": "ADADADADA"
+    },
+    "content": {
+      "es": "DADADAD",
+      "en": "DADADAD",
+      "pt": "DADADAD"
+    },
+    "image_url": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/news-media-26d0142d-08a9-469f-96bf-77e6eea26ebb/226717f75ba72055877c7fe0d65d9b77b7b11ad5e13d9a73b62d91d1a8b3b021.png",
+    "date": "2026-10-19",
+    "author": "Vichinzn Studios"
+  },
+  {
     "id": "5e210ede-5723-4349-9e58-394f8472bd20",
     "title": {
       "es": "Lanzamiento Oficial v1.0.1-b13.",
