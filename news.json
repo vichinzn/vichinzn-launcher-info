@@ -1,34 +1,18 @@
 [
   {
-    "id": 1,
-    "date": "2026-07-22",
-    "author": "Vichinzn",
-    "image_url": "https://cdn.discordapp.com/attachments/1470996241964859405/1529374042308477018/new_1_photo_22-07.png?ex=6a61b412&is=6a606292&hm=d8d7b013c411d057ac9972b0cb96a8d1d48e8cd7f7af3bae29400ff8e8fd0b4a&",
+    "id": "5e210ede-5723-4349-9e58-394f8472bd20",
     "title": {
-      "en": "Patch v1.0.0 | BETA Release 1.0",
-      "es": "Parche v1.0.0 | Lanzamiento BETA 1.0",
-      "pt": "Atualização v1.0.0 | Lançamento da versão BETA 1.0"
+      "es": "Lanzamiento Oficial v1.0.1-b13.",
+      "en": "Official Release v1.0.1-b13.",
+      "pt": "Lançamento oficial v1.0.1-b13."
     },
     "content": {
-      "en": "Official release of the first beta version of Vichinzn Launcher. The goal of this initial phase is to evaluate the system's performance and overall stability. Since this is a beta version, the launcher is not currently available to the public and is subject to ongoing adjustments and updates.",
-      "es": "Lanzamiento oficial de la primera versión Beta de Vichinzn Launcher. Esta etapa inicial tiene como objetivo evaluar el rendimiento del sistema y la estabilidad general. Al tratarse de una versión en fase beta, el lanzador no está disponible actualmente para el público y se encuentra sujeto a constantes ajustes e implementaciones.",
-      "pt": "Lançamento oficial da primeira versão beta do Vichinzn Launcher. Esta fase inicial tem como objetivo avaliar o desempenho do sistema e a estabilidade geral. Por se tratar de uma versão em fase beta, o launcher não está disponível ao público no momento e está sujeito a ajustes e implementações constantes."
-    }
-  },
-  {
-    "id": 2,
-    "date": "2026-07-23",
-    "author": "Vichinzn",
-    "image_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/news2.jpg",
-    "title": {
-      "en": "NEW SEASON ANNOUNCEMENT",
-      "es": "ANUNCIO DE NUEVA TEMPORADA",
-      "pt": "ANÚNCIO DA NOVA TEMPORADA"
+      "es": "SFSFFSSFSFDSSFSFFSFSFSF",
+      "en": "SFSFFSSFSFDSSFSFFSFSFSF",
+      "pt": "SFSFFSSFSFDSSFSFFSFSFSF"
     },
-    "content": {
-      "en": "Get ready for upcoming events, new rewards, and custom skin integrations across all instances.",
-      "es": "Prepárate para los próximos eventos, nuevas recompensas e integración de skins personalizadas en todas las instancias.",
-      "pt": "Prepare-se para os próximos eventos, novas recompensas e integração de skins personalizadas em todas as instâncias."
-    }
+    "image_url": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/news-media-5e210ede-5723-4349-9e58-394f8472bd20/b373b4696e657251ab1073204764c1716c014d3366ef2ceccdf1d59443c8bf3c.png",
+    "date": "2026-10-19",
+    "author": "Vichinzn Studios"
   }
 ]
