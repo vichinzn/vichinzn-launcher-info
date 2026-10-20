@@ -1,5 +1,21 @@
 [
   {
+    "id": "a08a4f20-6206-4bb7-a3bb-872eb6d9e521",
+    "title": {
+      "es": "[Nombre del evento]: nos vemos en [instancia]",
+      "en": "[Event Name]: See you at [instance]",
+      "pt": "[Nome do evento]: nos vemos na [instância]"
+    },
+    "content": {
+      "es": "Te invitamos a **[nombre del evento]**, una experiencia de [tipo de actividad] para [público]. [Describe en una frase qué lo hace especial.]\n\nAgenda del encuentro\n\n**Fecha:** [día, mes y año].\n**Horario:** [inicio y fin, con zona horaria].\n**Lugar:** [instancia o servidor].\n**Plazas:** [límite o participación abierta].\n\nCómo participar\n\n[Explica la inscripción, el punto de encuentro y la preparación necesaria.]\n\nReglas y recompensas\n\n**Reglas:** [condiciones esenciales de participación].\n**Recompensas:** [premios confirmados o indica que no hay premios].\n**Organización:** [responsable y canal de consultas].\n\nSi cambian los planes\n\n[Indica dónde se anunciarán cambios de horario o cancelaciones.]",
+      "en": "We invite you to **[event name]**, a [type of activity] experience for [audience]. [Describe in one sentence what makes it special.]\n\nMeeting Agenda\n\n**Date:** [day, month, and year].\n**Time:** [start and end times, including time zone].\n**Location:** [instance or server].\n**Capacity:** [limited or open enrollment].\n\nHow to Participate\n\n[Explain the registration process, the meeting place, and what you need to do to prepare.]\n\nRules and Rewards\n\n**Rules:** [essential conditions for participation].\n**Rewards:** [confirmed prizes or a note indicating that there are no prizes].\n**Organization:** [contact person and channel for inquiries].\n\nIf plans change\n\n[Indicate where schedule changes or cancellations will be announced.]",
+      "pt": "Convidamos você para o **[nome do evento]**, uma experiência de [tipo de atividade] voltada para [público]. [Descreva em uma frase o que o torna especial.]\n\nProgramação do encontro\n\n**Data:** [dia, mês e ano].\n**Horário:** [início e término, com fuso horário].\n**Local:** [instância ou servidor].\n**Vagas:** [limite ou participação aberta].\n\nComo participar\n\n[Explique como se inscrever, o ponto de encontro e os preparativos necessários.]\n\nRegras e recompensas\n\n**Regras:** [condições essenciais para participação].\n**Recompensas:** [prêmios confirmados ou indica que não há prêmios].\n**Organização:** [responsável e canal de contato].\n\nSe os planos mudarem\n\n[Indica onde serão divulgadas alterações de horário ou cancelamentos.]"
+    },
+    "image_url": "https://github.com/vichinzn/vichinzn-launcher-info/releases/download/news-media-a08a4f20-6206-4bb7-a3bb-872eb6d9e521/331785d911dc4710ab18f994287a02f63310714a806fdf3056cecbe546f02855.png",
+    "date": "2026-10-20",
+    "author": "Vichinzn Studios"
+  },
+  {
     "id": "03bc5a8b-9639-477b-a478-d8b1cabc6eb1",
     "title": {
       "es": "[color=#f5b800][color=#e3b325]Lanzamiento Beta [v.1.0.1]: una mejor experiencia de juego[/color][/color]",
